@@ -10,7 +10,7 @@
 html {
   height: 100%;
   font: 62.5%/1.5 -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;
-  background: var(--white);
+  background: var(--silver);
   color: #000;
 }
 
@@ -71,7 +71,7 @@ dd {
 }
 
 a {
-  color: var(--blue);
+  color: var(--aqua);
   font-weight: 600;
 }
 
@@ -84,7 +84,7 @@ button,
   border: 0;
   border-radius: 8px;
   padding: .7em 1em;
-  background: var(--blue);
+  background: var(--aqua);
   color: #fff;
   font: inherit;
   font-weight: 600;
@@ -117,8 +117,8 @@ header,
 footer {
   margin: 0 -1.2rem;
   padding: 1rem;
-  background: var(--blue);
-  color: var(--white);
+  background: var(--aqua);
+  color: var(--silver);
   text-align: center;
 }
 
